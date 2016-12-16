@@ -1,5 +1,5 @@
 language: ruby
-rvm: 
+rvm:
   - rvm 2.2.1
   - rvm 2.2.2
 
@@ -12,4 +12,3 @@ install:
 env:
   global:
     - AUTHY_API_KEY=TWILIOAPIKEY00000
-    
